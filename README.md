@@ -1,2 +1,2 @@
 # hello-world
-Use for practice only.
+Used for practice only.
